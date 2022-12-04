@@ -2,9 +2,49 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="483dc035-23e8-4ac3-99c9-e6a29afe464e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../16.10.22/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../30.10.22/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../30.10.22/zadacha_pro_rychki.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CatBot/CatBot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChatBot/ChatBot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TKinter_exercises/dm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TKinter_exercises/pack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../canvas/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../canvas/canvas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../canvas/canvas_2_Moving_objecds.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../canvas/canvas_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../canvass/canvass.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dao/checkbutton.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dao/di" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dao/di.fl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dz/dz.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dz/dzz.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hhh/exer_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kjj/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../menu/canvas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../menu/poka.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xa/dd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xa/jj.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xa/private_key4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xa/xaxi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ильйа/Telegram Bot(test)/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ильйа/Telegram Bot(test)/Telegram bot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ильйа/Telegram Bot(test)/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ильйа/amalia/amalia.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ильйа/firstleproject/dictionary228.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ильйа/firstleproject/firstfiledictionary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ильйа/untitled2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ильйа/untitled2/2 Task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ильйа/untitled2/Tasks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ильйа/untitled2/sas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ильйа/untitled3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ильйа/untitled3/Task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ильйа/untitled4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ильйа/untitled4/Tasks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ильйа/untitled6/random vrey sample project.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ильйа/untitled6/tasks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ильйа/untitled6/txt  file.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calendar.py" beforeDir="false" afterPath="$PROJECT_DIR$/calendar.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,19 +81,27 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-2001503685">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="270" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/calendar.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="344">
-              <caret line="32" column="50" selection-start-line="32" selection-start-column="50" selection-end-line="32" selection-end-column="50" />
-              <folding>
-                <element signature="e#0#20#0" expanded="true" />
-                <marker date="1668941967503" expanded="true" signature="114:115" ph="..." />
-                <marker date="1668941967503" expanded="true" signature="134:613" ph="..." />
-              </folding>
+            <state relative-caret-position="129">
+              <caret line="29" column="14" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -68,7 +116,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -89,8 +137,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
       <pane id="Scope" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -151,22 +199,21 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24983476" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24934895" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32907802" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.21291208" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997253" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -178,13 +225,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/calendar.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="344">
-          <caret line="32" column="50" selection-start-line="32" selection-start-column="50" selection-end-line="32" selection-end-column="50" />
-          <folding>
-            <element signature="e#0#20#0" expanded="true" />
-            <marker date="1668941967503" expanded="true" signature="114:115" ph="..." />
-            <marker date="1668941967503" expanded="true" signature="134:613" ph="..." />
-          </folding>
+        <state relative-caret-position="129">
+          <caret line="29" column="14" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
         </state>
       </provider>
     </entry>
