@@ -4,6 +4,18 @@ from tkinter import ttk
 root = Tk()
 root.geometry('800x400')
 
+months = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November',
+          'December']
+
+
+
+
+
+months_var = StringVar(value=months[11])
+comb_months=ttk.Combobox(textvariable=months_var,values=months,width=12,height=50).place(x=0,y=28)
+
+
+
 # def create_event(index):
 #     # window=Tk()
 #     window=Toplevel()
@@ -24,8 +36,6 @@ root.geometry('800x400')
 #     btn_ok.place(x=50, y=50)
 
 week = ['|', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun']
-months = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November',
-          'December']
 
 
 
@@ -34,8 +44,10 @@ def fill():
         info_label['text'] = months[i]
 
 
-months_var = StringVar(value=months[11])
-comb_months=ttk.Combobox(textvariable=months_var,values=months,width=12,height=50).place(x=0,y=28)
+
+
+
+
 
 info_label = Label(root, textvariable=months_var, width=10, height=1,
                            font=('Verdana', 16, 'bold'), fg='blue')
